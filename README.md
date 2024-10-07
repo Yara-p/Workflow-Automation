@@ -1,9 +1,8 @@
 # Workflow-Automation
-This repository contains a collection of scripts designed to automate routine workflow tasks, enhancing efficiency by automating processes such as attendance tracking and task management.
+This repository contains a collection of scripts designed to automate routine workflow tasks, enhancing efficiency by automating processes of attendance checking and tracking.
 
 ## Features
 - **Attendance Tracker**: Automates the process of checking and summarizing attendance.
-- **Task Management**: Tools to streamline other workflow tasks.
 
 ## Installation
 To use these scripts:
